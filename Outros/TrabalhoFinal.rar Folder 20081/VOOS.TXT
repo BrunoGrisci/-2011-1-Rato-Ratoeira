@@ -1,0 +1,35 @@
+GL01983,Salvador,12
+GL07457,Lima-Callao,05
+JJ03330,Londrina,14
+JJ03160,Caxias Do Sul,11
+JJ03184,Florianopolis,16
+GL01829,Porto Alegre,03
+GL01887,Salvador,03
+TP00187,Lisboa,02
+LU00751,Rio Janeiro,08
+SR00097,Santiago,15
+AA00907,Miami,02
+AA00963,Dallas,08
+AA00951,Nova York,09
+BA01247,Londres,07
+EK00261,Dubai,09
+AF00456,Paris,04
+SR00096,Zurich,07
+LH00506,Frankfurt,01
+LH00504,Munique,02
+LH05300,Zurich,03
+IB06821,Madrid,04
+IB06827,Madrid,05
+AC00090,Toronto,06
+AV00085,Bogota,07
+NWC8955,Atlanta,08
+NWC9127,Atlanta,09
+DL00121,Nova York,10
+PU00230,Montevideo,11
+UA00861,Washington,12
+UA00843,Chicago,13
+UA07950,Albania,14
+KL00651,Amsterdam,15
+UA00898,Beijing,16
+UA01696,Cancun,01
+B601259,Boston,02

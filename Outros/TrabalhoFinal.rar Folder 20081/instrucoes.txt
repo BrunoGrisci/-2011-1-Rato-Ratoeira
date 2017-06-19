@@ -1,0 +1,30 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::  Algoritmos e Programação - CIC 2008/1 - Profª Mara Abel - Turma E       ::
+::  Sistema de Controle Aéreo - Bruno Jurkovski e Marcos Vinícius Cavinato  ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::                                                                          ::
+::  Para compilar basta abrir o arquivo "trabalho_final.cpp" e compilar     ::
+::(não precisa adicionar nenhum arquivo ao projeto).                        ::
+::                                                                          ::
+::                                                                          ::
+::                          .:: INSTRUÇÕES ::.                              ::
+::                                                                          ::
+::   Primeiro deve-se selecionar o menu "Abrir", e carregar os arquivos de  ::
+::uma simulação antiga ou iniciar uma simução nova.                         ::
+::                                                                          ::
+::   Com os arquivos de vôos, pistas e aviões carregados, deve-se sele-     ::
+::cionar o menu "Iniciar" e então iniciar o controle de pousos, digitando   ::
+::o código de vôo e a pista onde o avião deverá pousar. O sistema avisa     ::
+::em caso de qualquer erro, como peso e tamanho necessário para pouso maior ::
+::do que o disponível naquela pista ou caso a pista já esteja ocupada.      ::
+::                                                                          ::
+::   A qualquer momento o sistema pode ser pausado, digitando "parar" na    ::
+::linha de comando. Com o sistema pausado podem ser salvados os arquivos    ::
+::com as modificações nos vôos feitas pelo programa, ou os relatórios com   ::
+::algumas estatísticas.                                                     ::
+::                                                                          ::
+::   No final de cada execução será salvado um arquivo de logs na pasta do  ::
+::programa, com a data e horário de início e fim de execução e com as tenta-::
+::tivas de pouso em cada pista.                                             ::
+::                                                                          ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

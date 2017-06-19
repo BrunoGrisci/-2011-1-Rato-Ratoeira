@@ -1,0 +1,7 @@
+Trabalho final 2010/2 -  Algorítmo e Programação (PacMan)
+
+====Descrição:
+
+====Especificação das estruturas:
+
+====Como jogar:
